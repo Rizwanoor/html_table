@@ -1,0 +1,29 @@
+table {
+    width: 70%;
+    background: #60dc2f70;
+    border-collapse: collapse;
+    padding: inherit;
+}
+Body
+{
+	   
+	    background: #6a7b28e3;
+	    text-align: center;
+	    margin-top: 100px;
+		margin-left: 196px;
+}
+tr{
+	       background: #d2c26ec4;
+		   font-size: 26px;
+		   padding:12px
+}
+td
+{
+	font-size: 23px;
+	padding:12px
+
+}
+th
+{
+	background: #e4c831;
+}
